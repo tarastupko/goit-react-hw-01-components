@@ -1,4 +1,4 @@
-import { List,Text } from "components/Profile/profile.styled"
+import { List } from "components/Profile/profile.styled"
 import { Section } from "./Statistics-styled"
 import PropTypes from "prop-types";
 
